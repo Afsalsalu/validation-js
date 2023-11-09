@@ -1,3 +1,3 @@
 # validation-js
- https://afsalsalu.github.io/validation-js/
+https://validation-js.vercel.app/
 
